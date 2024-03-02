@@ -1,5 +1,5 @@
 {
-  "name": "Xeon-PairCode",
+  "name": "DARK-SHAN-PAIRING",
   "version": "1.0.0",
   "description": "Connect Whatsapp With Baileys Code Pairing",
   "main": "index.js",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/Xeon-PairCode.git"
+    "url": "https://github.com/kushansewmina1234/DARK-SHAN-MD.git"
   },
-  "author": "DGXeon",
+  "author": "kushansewmina1234",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -30,7 +30,7 @@
     "pastebin-js": "latest"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/Xeon-PairCode/issues"
+    "url": "https://github.com/kushansewmina1234/DARK-SHAN-MD/issues"
   },
-  "homepage": "https://github.com/DGXeon/Xeon-PairCode#readme"
+  "homepage": "https://github.com/kushansewmina1234/DARK-SHAN-MD#readme"
 }
